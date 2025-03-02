@@ -48,6 +48,9 @@ Before you begin, ensure you have met the following requirements:
    ```
    The application will be available at `http://localhost:YOUR_PORT`.
 
+## Description
+Shorty Live is now live and accessible for users.
+https://shorty-c9t9.onrender.com/
 ## Built With
 
 - [Node.js](https://nodejs.org/) - JavaScript runtime environment
